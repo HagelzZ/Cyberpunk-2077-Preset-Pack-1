@@ -21,3 +21,11 @@ A collection of character presets i have made for my various Cyberpunk 2077 play
 ![Nova](./pictures/Nova.png)
 ### BluV
 ![BluV](./pictures/BluV.png)
+### William
+![William](./pictures/William.png)
+### Wendy
+![Wendy](./pictures/Wendy.png)
+### Jill
+![Jill](./pictures/Jill.png)
+### Rebecca
+![Rebecca](./pictures/Rebecca.png)
