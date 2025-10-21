@@ -7,6 +7,7 @@ A collection of character presets i have made for my various Cyberpunk 2077 play
 2\. Download dependencies  
 3a. Plop the unpacked bin directly into the root folder  
 3b. If using Vortex, drag the .zip into vortex  
+### *Please note that cloning the repo directly does not provide the proper file structure for plug-and-play; check out the releases tab*
   
   
 ## Requirements:
