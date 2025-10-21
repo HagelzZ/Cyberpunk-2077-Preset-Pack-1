@@ -18,14 +18,25 @@ A collection of character presets i have made for my various Cyberpunk 2077 play
   
 ## Previews
 ### Nova
-![Nova](./pictures/Nova.png)
+![Nova1](./pictures/Nova/Nova.png)
+![Nova2](./pictures/Nova/photomode_19092022_183554.png)
+![Nova3](./pictures/Nova/photomode_21092022_212639.png)
 ### BluV
-![BluV](./pictures/BluV.png)
+![BluV1](./pictures/BluV/BluV.png)
+![BluV2](./pictures/BluV/photomode_14022021_132238.png)
+![BluV3](./pictures/BluV/photomode_14022021_132256.png)
+![BluV4](./pictures/BluV/photomode_17022021_131138.png)
 ### William
-![William](./pictures/William.png)
+![William1](./pictures/William/William.png)
+![William2](./pictures/William/photomode_23082022_164624.png)
 ### Wendy
-![Wendy](./pictures/Wendy.png)
+![Wendy1](./pictures/Wendy/Wendy.png)
+![Wendy2](./pictures/Wendy/photomode_15042021_222943.png)
 ### Jill
-![Jill](./pictures/Jill.png)
+![Jill1](./pictures/Jill/Jill.png)
+![Jill2](./pictures/Jill/photomode_11022021_130125.png)
+### Jax
+![Jax](./pictures/Jax/Jax.png)
 ### Rebecca
-![Rebecca](./pictures/Rebecca.png)
+![Rebecca1](./pictures/Rebecca/Rebecca.png)
+![Rebecca2](./pictures/Rebecca/photomode_30122021_214524.png)
