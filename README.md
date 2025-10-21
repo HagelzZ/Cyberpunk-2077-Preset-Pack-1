@@ -4,10 +4,10 @@ A collection of character presets i have made for my various Cyberpunk 2077 play
 <br>
 
 ## Installation:
-1. Download
-2. Download dependencies
-3a. Plop the unpacked bin directly into the root folder
-3b. If using Vortex, drag the .zip into vortex
+\1. Download
+\2. Download dependencies
+\3a. Plop the unpacked bin directly into the root folder
+\3b. If using Vortex, drag the .zip into vortex
 
 <br>
 
