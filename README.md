@@ -10,10 +10,10 @@ A collection of character presets i have made for my various Cyberpunk 2077 play
   
   
 ## Requirements:
-- \[Hard Requirement\] [Cyber Engine Tweaks (Nexus)](https://www.nexusmods.com/cyberpunk2077/mods/107) / [Cyber Engine Tweaks (GitHub)](https://github.com/maximegmd/CyberEngineTweaks) - Needed for ACU
-- \[Hard Requirement\] [Appearance Change Unlocker](https://www.nexusmods.com/cyberpunk2077/mods/3850) - Main requirement after CET
-- \[Soft Requirement\] [E-girl Makeup Edits](https://www.nexusmods.com/cyberpunk2077/mods/1149) - Required for some of the female presets
-- \[Soft Requirement\] [Kala's Eyes Standalone V2 (Alt V2)](https://www.nexusmods.com/cyberpunk2077/mods/3281) - Required for Nova
+\- \[Hard Requirement\] [Cyber Engine Tweaks (Nexus)](https://www.nexusmods.com/cyberpunk2077/mods/107) / [Cyber Engine Tweaks (GitHub)](https://github.com/maximegmd/CyberEngineTweaks) - Needed for ACU
+\- \[Hard Requirement\] [Appearance Change Unlocker](https://www.nexusmods.com/cyberpunk2077/mods/3850) - Main requirement after CET
+\- \[Soft Requirement\] [E-girl Makeup Edits](https://www.nexusmods.com/cyberpunk2077/mods/1149) - Required for some of the female presets
+\- \[Soft Requirement\] [Kala's Eyes Standalone V2 (Alt V2)](https://www.nexusmods.com/cyberpunk2077/mods/3281) - Required for Nova
   
   
 ## Previews
